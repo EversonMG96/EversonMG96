@@ -16,5 +16,5 @@
   <img align="center" alt="Css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EversonMG96&exclude_repo=github-readme-stats,anuraghazra.github.io)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EversonMG96&exclude_repo=github-readme-stats,EversonMG96.github.io)<br/>
 
