@@ -1,9 +1,6 @@
 
 ### Olá! Muito Prazer sou o Everson Gomes 👋 🤙 ✋
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everson-gomes-7b84a7289/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/EversonMG/)
-[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/k-n-z_96)
 
 ![Everson GitHub stats](https://github-readme-stats.vercel.app/api?username=EversonMG96&show_icons=true&theme=dracula)
 
